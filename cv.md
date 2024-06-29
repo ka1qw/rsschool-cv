@@ -9,8 +9,9 @@ Contacts:
 
 ## Hello, my name is **Alexander Pashencev**
 - [About me](#about-me)
-- [My skills](#my-skills)
+- [My skills](#skills)
 - [Other](#other)
+
 ---
 ### About me
 
@@ -23,6 +24,7 @@ Contacts:
 - I took up studying frontend development several times, but usually I didn't have enough time. Now I want to try again in the rs-school format;
 
 - My goal **is to learn something new and get good skills in it**.
+
 ---
 ### Skills
 - Basics of JS, Python, C++ and also HTML
