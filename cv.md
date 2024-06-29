@@ -2,7 +2,12 @@
 
 <img src="https://github.com/ka1qw/rsschool-cv/assets/94354182/bb829f28-aa18-42fc-84ec-849eb82e2417" width="250" height="">
 
-## Hello, my name is Alexander Pashencev and this is my CV for first task.
+Contacts:
+- Telegram: @yuppy324
+- Email: voxy435@gmail.com
+- Discrod: Alexander (@ka1qw)
+
+## Hello, my name is **Alexander Pashencev**
 - [About me](#about-me)
 - [My skills](#my-skills)
 - [Other](#other)
@@ -19,29 +24,18 @@
 
 - My goal **is to learn something new and get good skills in it**.
 ---
-### My skills
-
-1. I know the basics of JS, Python, C++ and also HTML, part of object-oriented programming.
-
-2. I can create simple telegram bots using Python and async libs.
-
-3. A few times I tried to work in Linux for educational purposes.
-
-4. I know the basic principles of the Git version control system, I had experience working in a two-person team on GitHub.
-
-5. I know some main principles of methodology Scrum and also notations such as IDEF0, IDEF3, BPMN, etc.
-
-6. I have presentation and public speaking skills.
+### Skills
+- Basics of JS, Python, C++ and also HTML
+- Creating simple TG-bots
+- Linux
+- GIT
+- Scrum, IDEF0, IDEF3, BPMN
+- Presentation and public speaking skills
 
 ---
 ### Other
 
 - My English level is C2. [Proof](cert.efset.org/ntbahZ)
-
-- Contacts:
-  - [Telegram](https://t.me/yuppy324)
-  - voxy435@gmail.com
-  - Discrod nickname: Alexander (@ka1qw)
 
 - Example of code (from codewars):
 ```
