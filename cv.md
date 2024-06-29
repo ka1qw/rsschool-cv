@@ -1,6 +1,7 @@
 # CV for rs-school
 
-![My photo]()
+<img src="https://github.com/ka1qw/rsschool-cv/assets/94354182/bb829f28-aa18-42fc-84ec-849eb82e2417" width="250" height="">
+
 ## Hello, my name is Alexander Pashencev and this is my CV for first task.
 - [About me](#about-me)
 - [My skills](#my-skills)
