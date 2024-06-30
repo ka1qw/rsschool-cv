@@ -37,7 +37,7 @@ Contacts:
 ---
 ### Other
 
-- My English level is C2. [Proof](cert.efset.org/ntbahZ)
+- My English level is C2. [Proof](https://cert.efset.org/ntbahZ)
 
 - Example of code (from codewars):
 ```
