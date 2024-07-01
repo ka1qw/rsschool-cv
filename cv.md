@@ -1,0 +1,47 @@
+# CV for rs-school
+
+<img src="https://github.com/ka1qw/rsschool-cv/assets/94354182/bb829f28-aa18-42fc-84ec-849eb82e2417" width="250" height="">
+
+Contacts:
+- Telegram: @yuppy324
+- Email: voxy435@gmail.com
+- Discrod: Alexander (@ka1qw)
+
+## Hello, my name is **Alexander Pashencev**
+- [About me](#about-me)
+- [My skills](#skills)
+- [Other](#other)
+
+---
+### About me
+
+- A few months ago I graduated from the Russian State Hydrometeorological University with a degree in applied Informatics;
+
+- While learning, an attempt was made to create a project using Python. A Telegram-bot was almost created to navigate university buildings. Unfortunately, there was not enough enthusiasm and desire for full implementation;
+
+- Since the third year, I had experience working at a private programming school for children. The main subject was learning the Python language. I worked there for 2 years and changed my occupation after graduation.
+
+- I took up studying frontend development several times, but usually I didn't have enough time. Now I want to try again in the rs-school format;
+
+- My goal **is to learn something new and get good skills in it**.
+
+---
+### Skills
+- Basics of JS, Python, C++ and also HTML
+- Creating simple TG-bots
+- Linux
+- GIT
+- Scrum, IDEF0, IDEF3, BPMN
+- Presentation and public speaking skills
+
+---
+### Other
+
+- My English level is C2. [Proof](https://cert.efset.org/ntbahZ)
+
+- Example of code (from codewars):
+```
+function multiply(a, b){
+  return a * b
+}
+```
